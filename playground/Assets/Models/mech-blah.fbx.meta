@@ -1,0 +1,876 @@
+fileFormatVersion: 2
+guid: d4aed0516ad71b648b0d7678ace36729
+timeCreated: 1465317325
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Arm.L
+    100002: Arm.R
+    100004: Arm.R.001
+    100006: B-shoulder.L
+    100008: B-Shoulder.R
+    100010: B-Torso
+    100012: Bone
+    100014: Bone.001
+    100016: Bone.001_L.001
+    100018: Bone.001_L.003
+    100020: Bone.001_L.003_end
+    100022: Bone.001_R.001
+    100024: Bone.001_R.003
+    100026: Bone.001_R.003_end
+    100028: Bone_L
+    100030: Bone_L.001
+    100032: Bone_L.002
+    100034: Bone_L.003
+    100036: Bone_L.003_end
+    100038: Bone_L.004
+    100040: Bone_L.005
+    100042: Bone_L.005_end
+    100044: Bone_R
+    100046: Bone_R.001
+    100048: Bone_R.002
+    100050: Bone_R.003
+    100052: Bone_R.003_end
+    100054: Bone_R.004
+    100056: Bone_R.005
+    100058: Bone_R.005_end
+    100060: Calve.L
+    100062: Calve.L.001
+    100064: Foot.L
+    100066: Foot.L.001
+    100068: HipJoint.L
+    100070: HipJoint.R
+    100072: Knee.L
+    100074: Knee.R
+    100076: //RootNode
+    100078: Thigh.L
+    100080: Thigh.R
+    100082: Torso
+    400000: Arm.L
+    400002: Arm.R
+    400004: Arm.R.001
+    400006: B-shoulder.L
+    400008: B-Shoulder.R
+    400010: B-Torso
+    400012: Bone
+    400014: Bone.001
+    400016: Bone.001_L.001
+    400018: Bone.001_L.003
+    400020: Bone.001_L.003_end
+    400022: Bone.001_R.001
+    400024: Bone.001_R.003
+    400026: Bone.001_R.003_end
+    400028: Bone_L
+    400030: Bone_L.001
+    400032: Bone_L.002
+    400034: Bone_L.003
+    400036: Bone_L.003_end
+    400038: Bone_L.004
+    400040: Bone_L.005
+    400042: Bone_L.005_end
+    400044: Bone_R
+    400046: Bone_R.001
+    400048: Bone_R.002
+    400050: Bone_R.003
+    400052: Bone_R.003_end
+    400054: Bone_R.004
+    400056: Bone_R.005
+    400058: Bone_R.005_end
+    400060: Calve.L
+    400062: Calve.L.001
+    400064: Foot.L
+    400066: Foot.L.001
+    400068: HipJoint.L
+    400070: HipJoint.R
+    400072: Knee.L
+    400074: Knee.R
+    400076: //RootNode
+    400078: Thigh.L
+    400080: Thigh.R
+    400082: Torso
+    2300000: Arm.L
+    2300002: Arm.R
+    2300004: Arm.R.001
+    2300006: Calve.L
+    2300008: Calve.L.001
+    2300010: Foot.L
+    2300012: Foot.L.001
+    2300014: HipJoint.L
+    2300016: HipJoint.R
+    2300018: Knee.L
+    2300020: Knee.R
+    2300022: Thigh.L
+    2300024: Thigh.R
+    2300026: Torso
+    3300000: Arm.L
+    3300002: Arm.R
+    3300004: Arm.R.001
+    3300006: Calve.L
+    3300008: Calve.L.001
+    3300010: Foot.L
+    3300012: Foot.L.001
+    3300014: HipJoint.L
+    3300016: HipJoint.R
+    3300018: Knee.L
+    3300020: Knee.R
+    3300022: Thigh.L
+    3300024: Thigh.R
+    3300026: Torso
+    4300000: Torso
+    4300002: Arm.R
+    4300004: Arm.R.001
+    4300006: Arm.L
+    4300008: HipJoint.R
+    4300010: Thigh.R
+    4300012: Knee.R
+    4300014: Calve.L.001
+    4300016: HipJoint.L
+    4300018: Thigh.L
+    4300020: Knee.L
+    4300022: Calve.L
+    4300024: Foot.L.001
+    4300026: Foot.L
+    7400000: Walk
+    7400002: forward
+    7400004: Standing
+    7400006: Mech|forward
+    7400008: Mech|Standing
+    7400010: Mech|Walk
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Walk
+      takeName: Walk
+      firstFrame: 1
+      lastFrame: 19
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone.001
+        weight: 1
+      - path: Bone.001/Bone
+        weight: 1
+      - path: Bone.001/Bone/B-Torso
+        weight: 1
+      - path: Bone.001/Bone/B-Torso/B-shoulder.L
+        weight: 1
+      - path: Bone.001/Bone/B-Torso/B-shoulder.L/Arm.R.001
+        weight: 1
+      - path: Bone.001/Bone/B-Torso/B-shoulder.L/Bone.001_R.001
+        weight: 1
+      - path: Bone.001/Bone/B-Torso/B-shoulder.L/Bone.001_R.001/Bone.001_R.003
+        weight: 1
+      - path: Bone.001/Bone/B-Torso/B-shoulder.L/Bone.001_R.001/Bone.001_R.003/Arm.L
+        weight: 1
+      - path: Bone.001/Bone/B-Torso/B-shoulder.L/Bone.001_R.001/Bone.001_R.003/Bone.001_R.003_end
+        weight: 1
+      - path: Bone.001/Bone/B-Torso/B-Shoulder.R
+        weight: 1
+      - path: Bone.001/Bone/B-Torso/B-Shoulder.R/Bone.001_L.001
+        weight: 1
+      - path: Bone.001/Bone/B-Torso/B-Shoulder.R/Bone.001_L.001/Bone.001_L.003
+        weight: 1
+      - path: Bone.001/Bone/B-Torso/B-Shoulder.R/Bone.001_L.001/Bone.001_L.003/Arm.R
+        weight: 1
+      - path: Bone.001/Bone/B-Torso/B-Shoulder.R/Bone.001_L.001/Bone.001_L.003/Bone.001_L.003_end
+        weight: 1
+      - path: Bone.001/Bone/B-Torso/Torso
+        weight: 1
+      - path: Bone.001/Bone/Bone_L
+        weight: 1
+      - path: Bone.001/Bone/Bone_L/Bone_L.001
+        weight: 1
+      - path: Bone.001/Bone/Bone_L/Bone_L.001/Bone_L.002
+        weight: 1
+      - path: Bone.001/Bone/Bone_L/Bone_L.001/Bone_L.002/Bone_L.003
+        weight: 1
+      - path: Bone.001/Bone/Bone_L/Bone_L.001/Bone_L.002/Bone_L.003/Bone_L.003_end
+        weight: 1
+      - path: Bone.001/Bone/Bone_L/Bone_L.001/Bone_L.002/Bone_L.003/Calve.L.001
+        weight: 1
+      - path: Bone.001/Bone/Bone_L/Bone_L.001/Bone_L.002/Knee.R
+        weight: 1
+      - path: Bone.001/Bone/Bone_L/Bone_L.001/Thigh.R
+        weight: 1
+      - path: Bone.001/Bone/Bone_L/HipJoint.R
+        weight: 1
+      - path: Bone.001/Bone/Bone_R
+        weight: 1
+      - path: Bone.001/Bone/Bone_R/Bone_R.001
+        weight: 1
+      - path: Bone.001/Bone/Bone_R/Bone_R.001/Bone_R.002
+        weight: 1
+      - path: Bone.001/Bone/Bone_R/Bone_R.001/Bone_R.002/Bone_R.003
+        weight: 1
+      - path: Bone.001/Bone/Bone_R/Bone_R.001/Bone_R.002/Bone_R.003/Bone_R.003_end
+        weight: 1
+      - path: Bone.001/Bone/Bone_R/Bone_R.001/Bone_R.002/Bone_R.003/Calve.L
+        weight: 1
+      - path: Bone.001/Bone/Bone_R/Bone_R.001/Bone_R.002/Knee.L
+        weight: 1
+      - path: Bone.001/Bone/Bone_R/Bone_R.001/Thigh.L
+        weight: 1
+      - path: Bone.001/Bone/Bone_R/HipJoint.L
+        weight: 1
+      - path: Bone.001/Bone_L.004
+        weight: 1
+      - path: Bone.001/Bone_L.004/Bone_L.005
+        weight: 1
+      - path: Bone.001/Bone_L.004/Bone_L.005/Bone_L.005_end
+        weight: 1
+      - path: Bone.001/Bone_L.004/Bone_L.005/Foot.L.001
+        weight: 1
+      - path: Bone.001/Bone_R.004
+        weight: 1
+      - path: Bone.001/Bone_R.004/Bone_R.005
+        weight: 1
+      - path: Bone.001/Bone_R.004/Bone_R.005/Bone_R.005_end
+        weight: 1
+      - path: Bone.001/Bone_R.004/Bone_R.005/Foot.L
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: forward
+      takeName: forward
+      firstFrame: 0
+      lastFrame: 75
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone.001
+        weight: 1
+      - path: Bone.001/Bone
+        weight: 1
+      - path: Bone.001/Bone/B-Torso
+        weight: 1
+      - path: Bone.001/Bone/B-Torso/B-shoulder.L
+        weight: 1
+      - path: Bone.001/Bone/B-Torso/B-shoulder.L/Arm.R.001
+        weight: 1
+      - path: Bone.001/Bone/B-Torso/B-shoulder.L/Bone.001_R.001
+        weight: 1
+      - path: Bone.001/Bone/B-Torso/B-shoulder.L/Bone.001_R.001/Bone.001_R.003
+        weight: 1
+      - path: Bone.001/Bone/B-Torso/B-shoulder.L/Bone.001_R.001/Bone.001_R.003/Arm.L
+        weight: 1
+      - path: Bone.001/Bone/B-Torso/B-shoulder.L/Bone.001_R.001/Bone.001_R.003/Bone.001_R.003_end
+        weight: 1
+      - path: Bone.001/Bone/B-Torso/B-Shoulder.R
+        weight: 1
+      - path: Bone.001/Bone/B-Torso/B-Shoulder.R/Bone.001_L.001
+        weight: 1
+      - path: Bone.001/Bone/B-Torso/B-Shoulder.R/Bone.001_L.001/Bone.001_L.003
+        weight: 1
+      - path: Bone.001/Bone/B-Torso/B-Shoulder.R/Bone.001_L.001/Bone.001_L.003/Arm.R
+        weight: 1
+      - path: Bone.001/Bone/B-Torso/B-Shoulder.R/Bone.001_L.001/Bone.001_L.003/Bone.001_L.003_end
+        weight: 1
+      - path: Bone.001/Bone/B-Torso/Torso
+        weight: 1
+      - path: Bone.001/Bone/Bone_L
+        weight: 1
+      - path: Bone.001/Bone/Bone_L/Bone_L.001
+        weight: 1
+      - path: Bone.001/Bone/Bone_L/Bone_L.001/Bone_L.002
+        weight: 1
+      - path: Bone.001/Bone/Bone_L/Bone_L.001/Bone_L.002/Bone_L.003
+        weight: 1
+      - path: Bone.001/Bone/Bone_L/Bone_L.001/Bone_L.002/Bone_L.003/Bone_L.003_end
+        weight: 1
+      - path: Bone.001/Bone/Bone_L/Bone_L.001/Bone_L.002/Bone_L.003/Calve.L.001
+        weight: 1
+      - path: Bone.001/Bone/Bone_L/Bone_L.001/Bone_L.002/Knee.R
+        weight: 1
+      - path: Bone.001/Bone/Bone_L/Bone_L.001/Thigh.R
+        weight: 1
+      - path: Bone.001/Bone/Bone_L/HipJoint.R
+        weight: 1
+      - path: Bone.001/Bone/Bone_R
+        weight: 1
+      - path: Bone.001/Bone/Bone_R/Bone_R.001
+        weight: 1
+      - path: Bone.001/Bone/Bone_R/Bone_R.001/Bone_R.002
+        weight: 1
+      - path: Bone.001/Bone/Bone_R/Bone_R.001/Bone_R.002/Bone_R.003
+        weight: 1
+      - path: Bone.001/Bone/Bone_R/Bone_R.001/Bone_R.002/Bone_R.003/Bone_R.003_end
+        weight: 1
+      - path: Bone.001/Bone/Bone_R/Bone_R.001/Bone_R.002/Bone_R.003/Calve.L
+        weight: 1
+      - path: Bone.001/Bone/Bone_R/Bone_R.001/Bone_R.002/Knee.L
+        weight: 1
+      - path: Bone.001/Bone/Bone_R/Bone_R.001/Thigh.L
+        weight: 1
+      - path: Bone.001/Bone/Bone_R/HipJoint.L
+        weight: 1
+      - path: Bone.001/Bone_L.004
+        weight: 1
+      - path: Bone.001/Bone_L.004/Bone_L.005
+        weight: 1
+      - path: Bone.001/Bone_L.004/Bone_L.005/Bone_L.005_end
+        weight: 1
+      - path: Bone.001/Bone_L.004/Bone_L.005/Foot.L.001
+        weight: 1
+      - path: Bone.001/Bone_R.004
+        weight: 1
+      - path: Bone.001/Bone_R.004/Bone_R.005
+        weight: 1
+      - path: Bone.001/Bone_R.004/Bone_R.005/Bone_R.005_end
+        weight: 1
+      - path: Bone.001/Bone_R.004/Bone_R.005/Foot.L
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Standing
+      takeName: Standing
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone.001
+        weight: 1
+      - path: Bone.001/Bone
+        weight: 1
+      - path: Bone.001/Bone/B-Torso
+        weight: 1
+      - path: Bone.001/Bone/B-Torso/B-shoulder.L
+        weight: 1
+      - path: Bone.001/Bone/B-Torso/B-shoulder.L/Arm.R.001
+        weight: 1
+      - path: Bone.001/Bone/B-Torso/B-shoulder.L/Bone.001_R.001
+        weight: 1
+      - path: Bone.001/Bone/B-Torso/B-shoulder.L/Bone.001_R.001/Bone.001_R.003
+        weight: 1
+      - path: Bone.001/Bone/B-Torso/B-shoulder.L/Bone.001_R.001/Bone.001_R.003/Arm.L
+        weight: 1
+      - path: Bone.001/Bone/B-Torso/B-shoulder.L/Bone.001_R.001/Bone.001_R.003/Bone.001_R.003_end
+        weight: 1
+      - path: Bone.001/Bone/B-Torso/B-Shoulder.R
+        weight: 1
+      - path: Bone.001/Bone/B-Torso/B-Shoulder.R/Bone.001_L.001
+        weight: 1
+      - path: Bone.001/Bone/B-Torso/B-Shoulder.R/Bone.001_L.001/Bone.001_L.003
+        weight: 1
+      - path: Bone.001/Bone/B-Torso/B-Shoulder.R/Bone.001_L.001/Bone.001_L.003/Arm.R
+        weight: 1
+      - path: Bone.001/Bone/B-Torso/B-Shoulder.R/Bone.001_L.001/Bone.001_L.003/Bone.001_L.003_end
+        weight: 1
+      - path: Bone.001/Bone/B-Torso/Torso
+        weight: 1
+      - path: Bone.001/Bone/Bone_L
+        weight: 1
+      - path: Bone.001/Bone/Bone_L/Bone_L.001
+        weight: 1
+      - path: Bone.001/Bone/Bone_L/Bone_L.001/Bone_L.002
+        weight: 1
+      - path: Bone.001/Bone/Bone_L/Bone_L.001/Bone_L.002/Bone_L.003
+        weight: 1
+      - path: Bone.001/Bone/Bone_L/Bone_L.001/Bone_L.002/Bone_L.003/Bone_L.003_end
+        weight: 1
+      - path: Bone.001/Bone/Bone_L/Bone_L.001/Bone_L.002/Bone_L.003/Calve.L.001
+        weight: 1
+      - path: Bone.001/Bone/Bone_L/Bone_L.001/Bone_L.002/Knee.R
+        weight: 1
+      - path: Bone.001/Bone/Bone_L/Bone_L.001/Thigh.R
+        weight: 1
+      - path: Bone.001/Bone/Bone_L/HipJoint.R
+        weight: 1
+      - path: Bone.001/Bone/Bone_R
+        weight: 1
+      - path: Bone.001/Bone/Bone_R/Bone_R.001
+        weight: 1
+      - path: Bone.001/Bone/Bone_R/Bone_R.001/Bone_R.002
+        weight: 1
+      - path: Bone.001/Bone/Bone_R/Bone_R.001/Bone_R.002/Bone_R.003
+        weight: 1
+      - path: Bone.001/Bone/Bone_R/Bone_R.001/Bone_R.002/Bone_R.003/Bone_R.003_end
+        weight: 1
+      - path: Bone.001/Bone/Bone_R/Bone_R.001/Bone_R.002/Bone_R.003/Calve.L
+        weight: 1
+      - path: Bone.001/Bone/Bone_R/Bone_R.001/Bone_R.002/Knee.L
+        weight: 1
+      - path: Bone.001/Bone/Bone_R/Bone_R.001/Thigh.L
+        weight: 1
+      - path: Bone.001/Bone/Bone_R/HipJoint.L
+        weight: 1
+      - path: Bone.001/Bone_L.004
+        weight: 1
+      - path: Bone.001/Bone_L.004/Bone_L.005
+        weight: 1
+      - path: Bone.001/Bone_L.004/Bone_L.005/Bone_L.005_end
+        weight: 1
+      - path: Bone.001/Bone_L.004/Bone_L.005/Foot.L.001
+        weight: 1
+      - path: Bone.001/Bone_R.004
+        weight: 1
+      - path: Bone.001/Bone_R.004/Bone_R.005
+        weight: 1
+      - path: Bone.001/Bone_R.004/Bone_R.005/Bone_R.005_end
+        weight: 1
+      - path: Bone.001/Bone_R.004/Bone_R.005/Foot.L
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Mech|forward
+      takeName: Mech|forward
+      firstFrame: 0
+      lastFrame: 75
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone.001
+        weight: 1
+      - path: Bone.001/Bone
+        weight: 1
+      - path: Bone.001/Bone/B-Torso
+        weight: 1
+      - path: Bone.001/Bone/B-Torso/B-shoulder.L
+        weight: 1
+      - path: Bone.001/Bone/B-Torso/B-shoulder.L/Arm.R.001
+        weight: 1
+      - path: Bone.001/Bone/B-Torso/B-shoulder.L/Bone.001_R.001
+        weight: 1
+      - path: Bone.001/Bone/B-Torso/B-shoulder.L/Bone.001_R.001/Bone.001_R.003
+        weight: 1
+      - path: Bone.001/Bone/B-Torso/B-shoulder.L/Bone.001_R.001/Bone.001_R.003/Arm.L
+        weight: 1
+      - path: Bone.001/Bone/B-Torso/B-shoulder.L/Bone.001_R.001/Bone.001_R.003/Bone.001_R.003_end
+        weight: 1
+      - path: Bone.001/Bone/B-Torso/B-Shoulder.R
+        weight: 1
+      - path: Bone.001/Bone/B-Torso/B-Shoulder.R/Bone.001_L.001
+        weight: 1
+      - path: Bone.001/Bone/B-Torso/B-Shoulder.R/Bone.001_L.001/Bone.001_L.003
+        weight: 1
+      - path: Bone.001/Bone/B-Torso/B-Shoulder.R/Bone.001_L.001/Bone.001_L.003/Arm.R
+        weight: 1
+      - path: Bone.001/Bone/B-Torso/B-Shoulder.R/Bone.001_L.001/Bone.001_L.003/Bone.001_L.003_end
+        weight: 1
+      - path: Bone.001/Bone/B-Torso/Torso
+        weight: 1
+      - path: Bone.001/Bone/Bone_L
+        weight: 1
+      - path: Bone.001/Bone/Bone_L/Bone_L.001
+        weight: 1
+      - path: Bone.001/Bone/Bone_L/Bone_L.001/Bone_L.002
+        weight: 1
+      - path: Bone.001/Bone/Bone_L/Bone_L.001/Bone_L.002/Bone_L.003
+        weight: 1
+      - path: Bone.001/Bone/Bone_L/Bone_L.001/Bone_L.002/Bone_L.003/Bone_L.003_end
+        weight: 1
+      - path: Bone.001/Bone/Bone_L/Bone_L.001/Bone_L.002/Bone_L.003/Calve.L.001
+        weight: 1
+      - path: Bone.001/Bone/Bone_L/Bone_L.001/Bone_L.002/Knee.R
+        weight: 1
+      - path: Bone.001/Bone/Bone_L/Bone_L.001/Thigh.R
+        weight: 1
+      - path: Bone.001/Bone/Bone_L/HipJoint.R
+        weight: 1
+      - path: Bone.001/Bone/Bone_R
+        weight: 1
+      - path: Bone.001/Bone/Bone_R/Bone_R.001
+        weight: 1
+      - path: Bone.001/Bone/Bone_R/Bone_R.001/Bone_R.002
+        weight: 1
+      - path: Bone.001/Bone/Bone_R/Bone_R.001/Bone_R.002/Bone_R.003
+        weight: 1
+      - path: Bone.001/Bone/Bone_R/Bone_R.001/Bone_R.002/Bone_R.003/Bone_R.003_end
+        weight: 1
+      - path: Bone.001/Bone/Bone_R/Bone_R.001/Bone_R.002/Bone_R.003/Calve.L
+        weight: 1
+      - path: Bone.001/Bone/Bone_R/Bone_R.001/Bone_R.002/Knee.L
+        weight: 1
+      - path: Bone.001/Bone/Bone_R/Bone_R.001/Thigh.L
+        weight: 1
+      - path: Bone.001/Bone/Bone_R/HipJoint.L
+        weight: 1
+      - path: Bone.001/Bone_L.004
+        weight: 1
+      - path: Bone.001/Bone_L.004/Bone_L.005
+        weight: 1
+      - path: Bone.001/Bone_L.004/Bone_L.005/Bone_L.005_end
+        weight: 1
+      - path: Bone.001/Bone_L.004/Bone_L.005/Foot.L.001
+        weight: 1
+      - path: Bone.001/Bone_R.004
+        weight: 1
+      - path: Bone.001/Bone_R.004/Bone_R.005
+        weight: 1
+      - path: Bone.001/Bone_R.004/Bone_R.005/Bone_R.005_end
+        weight: 1
+      - path: Bone.001/Bone_R.004/Bone_R.005/Foot.L
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Mech|Standing
+      takeName: Mech|Standing
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone.001
+        weight: 1
+      - path: Bone.001/Bone
+        weight: 1
+      - path: Bone.001/Bone/B-Torso
+        weight: 1
+      - path: Bone.001/Bone/B-Torso/B-shoulder.L
+        weight: 1
+      - path: Bone.001/Bone/B-Torso/B-shoulder.L/Arm.R.001
+        weight: 1
+      - path: Bone.001/Bone/B-Torso/B-shoulder.L/Bone.001_R.001
+        weight: 1
+      - path: Bone.001/Bone/B-Torso/B-shoulder.L/Bone.001_R.001/Bone.001_R.003
+        weight: 1
+      - path: Bone.001/Bone/B-Torso/B-shoulder.L/Bone.001_R.001/Bone.001_R.003/Arm.L
+        weight: 1
+      - path: Bone.001/Bone/B-Torso/B-shoulder.L/Bone.001_R.001/Bone.001_R.003/Bone.001_R.003_end
+        weight: 1
+      - path: Bone.001/Bone/B-Torso/B-Shoulder.R
+        weight: 1
+      - path: Bone.001/Bone/B-Torso/B-Shoulder.R/Bone.001_L.001
+        weight: 1
+      - path: Bone.001/Bone/B-Torso/B-Shoulder.R/Bone.001_L.001/Bone.001_L.003
+        weight: 1
+      - path: Bone.001/Bone/B-Torso/B-Shoulder.R/Bone.001_L.001/Bone.001_L.003/Arm.R
+        weight: 1
+      - path: Bone.001/Bone/B-Torso/B-Shoulder.R/Bone.001_L.001/Bone.001_L.003/Bone.001_L.003_end
+        weight: 1
+      - path: Bone.001/Bone/B-Torso/Torso
+        weight: 1
+      - path: Bone.001/Bone/Bone_L
+        weight: 1
+      - path: Bone.001/Bone/Bone_L/Bone_L.001
+        weight: 1
+      - path: Bone.001/Bone/Bone_L/Bone_L.001/Bone_L.002
+        weight: 1
+      - path: Bone.001/Bone/Bone_L/Bone_L.001/Bone_L.002/Bone_L.003
+        weight: 1
+      - path: Bone.001/Bone/Bone_L/Bone_L.001/Bone_L.002/Bone_L.003/Bone_L.003_end
+        weight: 1
+      - path: Bone.001/Bone/Bone_L/Bone_L.001/Bone_L.002/Bone_L.003/Calve.L.001
+        weight: 1
+      - path: Bone.001/Bone/Bone_L/Bone_L.001/Bone_L.002/Knee.R
+        weight: 1
+      - path: Bone.001/Bone/Bone_L/Bone_L.001/Thigh.R
+        weight: 1
+      - path: Bone.001/Bone/Bone_L/HipJoint.R
+        weight: 1
+      - path: Bone.001/Bone/Bone_R
+        weight: 1
+      - path: Bone.001/Bone/Bone_R/Bone_R.001
+        weight: 1
+      - path: Bone.001/Bone/Bone_R/Bone_R.001/Bone_R.002
+        weight: 1
+      - path: Bone.001/Bone/Bone_R/Bone_R.001/Bone_R.002/Bone_R.003
+        weight: 1
+      - path: Bone.001/Bone/Bone_R/Bone_R.001/Bone_R.002/Bone_R.003/Bone_R.003_end
+        weight: 1
+      - path: Bone.001/Bone/Bone_R/Bone_R.001/Bone_R.002/Bone_R.003/Calve.L
+        weight: 1
+      - path: Bone.001/Bone/Bone_R/Bone_R.001/Bone_R.002/Knee.L
+        weight: 1
+      - path: Bone.001/Bone/Bone_R/Bone_R.001/Thigh.L
+        weight: 1
+      - path: Bone.001/Bone/Bone_R/HipJoint.L
+        weight: 1
+      - path: Bone.001/Bone_L.004
+        weight: 1
+      - path: Bone.001/Bone_L.004/Bone_L.005
+        weight: 1
+      - path: Bone.001/Bone_L.004/Bone_L.005/Bone_L.005_end
+        weight: 1
+      - path: Bone.001/Bone_L.004/Bone_L.005/Foot.L.001
+        weight: 1
+      - path: Bone.001/Bone_R.004
+        weight: 1
+      - path: Bone.001/Bone_R.004/Bone_R.005
+        weight: 1
+      - path: Bone.001/Bone_R.004/Bone_R.005/Bone_R.005_end
+        weight: 1
+      - path: Bone.001/Bone_R.004/Bone_R.005/Foot.L
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Mech|Walk
+      takeName: Mech|Walk
+      firstFrame: 0
+      lastFrame: 19
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone.001
+        weight: 1
+      - path: Bone.001/Bone
+        weight: 1
+      - path: Bone.001/Bone/B-Torso
+        weight: 1
+      - path: Bone.001/Bone/B-Torso/B-shoulder.L
+        weight: 1
+      - path: Bone.001/Bone/B-Torso/B-shoulder.L/Arm.R.001
+        weight: 1
+      - path: Bone.001/Bone/B-Torso/B-shoulder.L/Bone.001_R.001
+        weight: 1
+      - path: Bone.001/Bone/B-Torso/B-shoulder.L/Bone.001_R.001/Bone.001_R.003
+        weight: 1
+      - path: Bone.001/Bone/B-Torso/B-shoulder.L/Bone.001_R.001/Bone.001_R.003/Arm.L
+        weight: 1
+      - path: Bone.001/Bone/B-Torso/B-shoulder.L/Bone.001_R.001/Bone.001_R.003/Bone.001_R.003_end
+        weight: 1
+      - path: Bone.001/Bone/B-Torso/B-Shoulder.R
+        weight: 1
+      - path: Bone.001/Bone/B-Torso/B-Shoulder.R/Bone.001_L.001
+        weight: 1
+      - path: Bone.001/Bone/B-Torso/B-Shoulder.R/Bone.001_L.001/Bone.001_L.003
+        weight: 1
+      - path: Bone.001/Bone/B-Torso/B-Shoulder.R/Bone.001_L.001/Bone.001_L.003/Arm.R
+        weight: 1
+      - path: Bone.001/Bone/B-Torso/B-Shoulder.R/Bone.001_L.001/Bone.001_L.003/Bone.001_L.003_end
+        weight: 1
+      - path: Bone.001/Bone/B-Torso/Torso
+        weight: 1
+      - path: Bone.001/Bone/Bone_L
+        weight: 1
+      - path: Bone.001/Bone/Bone_L/Bone_L.001
+        weight: 1
+      - path: Bone.001/Bone/Bone_L/Bone_L.001/Bone_L.002
+        weight: 1
+      - path: Bone.001/Bone/Bone_L/Bone_L.001/Bone_L.002/Bone_L.003
+        weight: 1
+      - path: Bone.001/Bone/Bone_L/Bone_L.001/Bone_L.002/Bone_L.003/Bone_L.003_end
+        weight: 1
+      - path: Bone.001/Bone/Bone_L/Bone_L.001/Bone_L.002/Bone_L.003/Calve.L.001
+        weight: 1
+      - path: Bone.001/Bone/Bone_L/Bone_L.001/Bone_L.002/Knee.R
+        weight: 1
+      - path: Bone.001/Bone/Bone_L/Bone_L.001/Thigh.R
+        weight: 1
+      - path: Bone.001/Bone/Bone_L/HipJoint.R
+        weight: 1
+      - path: Bone.001/Bone/Bone_R
+        weight: 1
+      - path: Bone.001/Bone/Bone_R/Bone_R.001
+        weight: 1
+      - path: Bone.001/Bone/Bone_R/Bone_R.001/Bone_R.002
+        weight: 1
+      - path: Bone.001/Bone/Bone_R/Bone_R.001/Bone_R.002/Bone_R.003
+        weight: 1
+      - path: Bone.001/Bone/Bone_R/Bone_R.001/Bone_R.002/Bone_R.003/Bone_R.003_end
+        weight: 1
+      - path: Bone.001/Bone/Bone_R/Bone_R.001/Bone_R.002/Bone_R.003/Calve.L
+        weight: 1
+      - path: Bone.001/Bone/Bone_R/Bone_R.001/Bone_R.002/Knee.L
+        weight: 1
+      - path: Bone.001/Bone/Bone_R/Bone_R.001/Thigh.L
+        weight: 1
+      - path: Bone.001/Bone/Bone_R/HipJoint.L
+        weight: 1
+      - path: Bone.001/Bone_L.004
+        weight: 1
+      - path: Bone.001/Bone_L.004/Bone_L.005
+        weight: 1
+      - path: Bone.001/Bone_L.004/Bone_L.005/Bone_L.005_end
+        weight: 1
+      - path: Bone.001/Bone_L.004/Bone_L.005/Foot.L.001
+        weight: 1
+      - path: Bone.001/Bone_R.004
+        weight: 1
+      - path: Bone.001/Bone_R.004/Bone_R.005
+        weight: 1
+      - path: Bone.001/Bone_R.004/Bone_R.005/Bone_R.005_end
+        weight: 1
+      - path: Bone.001/Bone_R.004/Bone_R.005/Foot.L
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
